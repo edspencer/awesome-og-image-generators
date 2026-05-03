@@ -19,6 +19,7 @@ Pull requests welcome 🚀
 | MagicBanner             | [https://magicbanner.ai](https://magicbanner.ai) — AI-based banner & hero image generator                                                 |
 | Socialify               | [https://socialify.git.ci](https://socialify.git.ci) — Generates GitHub repo social cards                                                 |
 | ShotSnap                | [https://shotsnap.com](https://shotsnap.com) — Screenshot → image styling                                                                 |
+| TinyTools              | [https://tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app) — Free browser-based OG image generator (plus favicon, color palette, SEO meta tag generators) — no signup, runs locally                       |
 
 ---
 
