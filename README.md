@@ -33,6 +33,7 @@ Pull requests welcome 🚀
 | Formito Image API            | [https://formito.com/tools/html-image](https://formito.com/tools/html-image)                                   |
 | microlink/cards              | [https://cards.microlink.io](https://cards.microlink.io)                                                       |
 | URLBox                       | [https://urlbox.io](https://urlbox.io) — Screenshot + OG image as a service                                    |
+| OG Forge                     | [https://og-forge.xyz](https://og-forge.xyz) — OG image API, ~35ms render, no headless browser; MIT-licensed and self-hostable |
 
 ---
 
