@@ -33,6 +33,7 @@ Pull requests welcome 🚀
 | Formito Image API            | [https://formito.com/tools/html-image](https://formito.com/tools/html-image)                                   |
 | microlink/cards              | [https://cards.microlink.io](https://cards.microlink.io)                                                       |
 | URLBox                       | [https://urlbox.io](https://urlbox.io) — Screenshot + OG image as a service                                    |
+| SnapOG                       | [https://github.com/nagpalarpit/snapog](https://github.com/nagpalarpit/snapog) — Self-hosted OG image API for Cloudflare Workers, deploy to your own account, sub-100ms cached, no third party in the request path |
 
 ---
 
