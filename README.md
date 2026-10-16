@@ -33,6 +33,7 @@ Pull requests welcome 🚀
 | Formito Image API            | [https://formito.com/tools/html-image](https://formito.com/tools/html-image)                                   |
 | microlink/cards              | [https://cards.microlink.io](https://cards.microlink.io)                                                       |
 | URLBox                       | [https://urlbox.io](https://urlbox.io) — Screenshot + OG image as a service                                    |
+| CurlShot                     | [https://curlshot.com](https://curlshot.com) — Screenshot API: render a URL or your own HTML at 1200x630 as PNG, JPEG or WebP |
 
 ---
 
